@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Air max 90",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "product_type": "sneaker",
+    "imageProduct": "air-max-90.jpg",
+    "owner": "Nike",
+    "owner_photo": "image-nike.jpg",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "title": "Yeezy 350",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
+    "product_type": "sneaker",
+    "imageProduct": "yeezy-300.jpg",
+    "owner": "Adidas",
+    "owner_photo": "image-adidas.jpg",
+    "price": 650.9
+  },
+  {
+    "id": 3,
+    "title": "Jordan IV",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "product_type": "sneaker",
+    "imageProduct": "jordan-iv.jpg",
+    "owner": "Nike",
+    "owner_photo": "image-nike.jpg",
+    "price": 800
+  },
+  {
+    "id": 4,
+    "title": "Yeezy 700",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "product_type": "sneaker",
+    "imageProduct": "yezzy-700",
+    "owner": "Adidas",
+    "owner_photo": "image-adidas.jpg",
+    "price": 800
+  }
+
+]
